@@ -1,0 +1,58 @@
+body {
+    background:#00405C;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.form-title {
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-item {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+   
+}
+
+.form-label {
+    color: #da3240;
+    margin-left: 20px;
+    display: block;
+    margin-top: 10px;
+}
+
+.form-element {
+    width: 85%;
+    margin: 5px 20px 15px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-button {
+    background: #009a89;
+    color: #fff;
+    width: 85%;
+    margin: 10px 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+.designed {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    padding: 10px;
+}
